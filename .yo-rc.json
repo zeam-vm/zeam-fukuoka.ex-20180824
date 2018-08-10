@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "zeam-fukuoka.ex-20180824",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "zacky1972",
+    "githubRepository": "zeam-fukuoka.ex-20180824"
+  }
+}
