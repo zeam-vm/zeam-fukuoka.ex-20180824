@@ -12,5 +12,14 @@
     "vision-1.html",
     "vision-2.html",
     "micro-elixir-1.html",
-    "micro-elixir-2.html"
+    "micro-elixir-2.html",
+    "micro-elixir-spec-1.html",
+    "polymorphic-llvm-1.html",
+    "polymorphic-llvm-2.html",
+    "embedded-1.html",
+    "sabotender-1.html",
+    "hastega-8.html",
+    "memory-management-1.html",
+    "global-optimization-1.html",
+    "challenge-native-code-1.html"
 ]
